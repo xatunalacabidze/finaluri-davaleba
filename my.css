@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: aquamarine;
+    
+    
+}
+
+#product-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    background-color: orange;
+    
+}
+
+.input-container{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: forestgreen;
+}
+
+.input-inner{
+    width: 500px;
+
+    
+}
